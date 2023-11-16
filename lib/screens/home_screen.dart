@@ -2,7 +2,6 @@ import 'package:flutter_mapp_clone/constants/colors.dart';
 import 'package:flutter_mapp_clone/widgets/app_bar_custom.dart';
 import 'package:flutter_mapp_clone/widgets/footer_custom.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_mapp_clone/constants/colors.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class HomeScreen extends StatelessWidget {
