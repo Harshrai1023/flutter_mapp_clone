@@ -8,32 +8,32 @@ This Flutter project is a responsive clone of the FlutterMapp website. It seeks 
 
 In addition to its faithful reproduction of the original FlutterMapp website, this project provides a comprehensive guide for commonly used Flutter widgets, offering insights into best practices for their integration and usage. Developers can refer to this project as a reliable reference point for implementing the Flutter widgets.
 
-1. **UI/UX Replication:**
-   - Accurate reproduction of the original project's user interface and user experience.
+1. **UI/UX Replication :**
+   Accurate reproduction of the original project's user interface and user experience.
 
-2. **Functionality Replication:**
-   - Implementation of core features and functionalities present in the original project.
+2. **Functionality Replication :**
+   Implementation of core features and functionalities present in the original project.
 
-3. **Responsive Design:**
-   - Adaptation of the user interface to various screen sizes and orientations, demonstrating responsiveness.
+3. **Responsive Design :**
+   Adaptation of the user interface to various screen sizes and orientations, demonstrating responsiveness.
 
-4. **Code Structure:**
-   - Well-organized and modular code structure, showcasing best practices for maintainability and scalability.
+4. **Code Structure :**
+   Well-organized and modular code structure, showcasing best practices for maintainability and scalability.
 
-5. **Use of Framework/Technology:**
-   - Proficient use of the chosen framework or technology, such as Flutter in this case.
+5. **Use of Framework/Technology :**
+   Proficient use of the chosen framework or technology, such as Flutter in this case.
 
-6. **Data Management:**
-   - Effective handling and management of data, including retrieval from APIs, local storage, or other sources.
+6. **Data Management :**
+   Effective handling and management of data, including retrieval from APIs, local storage, or other sources.
 
-7. **State Management:**
-   - Implementation of state management solutions suitable for the project's complexity, such as Provider, Riverpod, or Bloc in Flutter.
+7. **State Management :**
+   Implementation of state management solutions suitable for the project's complexity in Flutter.
 
-8. **Integration of Third-Party Libraries:**
-   - Inclusion and utilization of third-party libraries for specific functionalities or enhancements.
+8. **Integration of Third-Party Libraries :**
+   Inclusion and utilization of third-party libraries for specific functionalities or enhancements.
 
-9. **Error Handling:**
-   - Proper error handling and user feedback in case of unexpected situations or failures.
+9. **Error Handling :**
+   Proper error handling and user feedback in case of unexpected situations or failures.
 
 <!-- ## Screenshots
 
@@ -44,7 +44,7 @@ In addition to its faithful reproduction of the original FlutterMapp website, th
 *Caption for Screenshot 2* -->
 
 ## Demo
-You can explore the live demo of this FlutterMapp clone hosted on [Netlify]() and use it as a practical reference for implementing common Flutter widgets.
+You can explore the live demo of this FlutterMapp clone hosted on [Netlify](https://flutter-mapp-clone-773d41.netlify.app/#/) and use it as a practical reference for implementing common Flutter widgets.
 
 ## Installation
 
