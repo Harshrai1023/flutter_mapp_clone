@@ -87,10 +87,9 @@ You can explore the live demo of this FlutterMapp clone hosted on [Netlify](http
 
 ## Contact Information
 
-For additional information or inquiries, please contact:
+For additional information, inquiries and reporting issues, please contact:
 
-- Harsh Rai
-- harshrai1023@gmail.com
+Harsh Rai @ harshrai1023@gmail.com
 
 ## Disclaimer
 
