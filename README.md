@@ -35,13 +35,17 @@ In addition to its faithful reproduction of the original FlutterMapp website, th
 9. **Error Handling :**
    Proper error handling and user feedback in case of unexpected situations or failures.
 
-<!-- ## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-*Caption for Screenshot 1*
-
-![Screenshot 2](screenshots/screenshot2.png)
-*Caption for Screenshot 2* -->
+## Screenshots
+<p float="left">
+  <img src="screenshots/Screenshot (1).png" width="49%" />
+  <img src="screenshots/Screenshot (2).png" width="49%" />
+  <img src="screenshots/Screenshot (3).png" width="49%" />
+  <img src="screenshots/Screenshot (4).png" width="49%" />
+  <img src="screenshots/Screenshot (5).png" width="49%" />
+  <img src="screenshots/Screenshot (6).png" width="49%" />
+  <img src="screenshots/Screenshot (7).png" width="49%" />
+  <img src="screenshots/Screenshot (8).png" width="49%" />
+</p>
 
 ## Demo
 You can explore the live demo of this FlutterMapp clone hosted on [Netlify](https://flutter-mapp-clone-773d41.netlify.app/#/) and use it as a practical reference for implementing common Flutter widgets.
